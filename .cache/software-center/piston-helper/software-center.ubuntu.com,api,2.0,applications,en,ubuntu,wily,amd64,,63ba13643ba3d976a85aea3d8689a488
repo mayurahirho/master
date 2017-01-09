@@ -1,0 +1,20 @@
+status: 200
+x-request-id: 52e94543-551c-4d7f-a731-ee8f9ef04fa3
+via: 1.1 juju-prod45-u1-sca-machine-26 (squid/3.3.8)
+x-cache: HIT from juju-prod45-u1-sca-machine-26
+content-language: en
+age: 0
+expires: Mon, 09 Jan 2017 05:26:33 GMT
+vary: Authorization,Accept-Language,Cookie
+server: gunicorn/19.6.0
+last-modified: Mon, 09 Jan 2017 05:16:33 GMT
+x-vcs-revision: 13.2
+etag: "d751713988987e9331980363e24189ce"
+x-bzr-revision-number: 3702
+cache-control: max-age=600
+date: Mon, 09 Jan 2017 05:27:11 GMT
+content-type: application/json; charset=utf-8
+x-cache-lookup: HIT from juju-prod45-u1-sca-machine-26:3128
+content-location: http://software-center.ubuntu.com/api/2.0/applications/en/ubuntu/wily/amd64/
+
+[]

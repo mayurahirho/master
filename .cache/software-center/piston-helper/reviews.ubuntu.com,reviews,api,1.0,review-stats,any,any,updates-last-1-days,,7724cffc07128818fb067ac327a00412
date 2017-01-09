@@ -1,0 +1,31 @@
+status: 200
+content-length: 369
+expires: Mon, 09 Jan 2017 08:28:51 GMT
+content-location: https://reviews.ubuntu.com/reviews/api/1.0/review-stats/any/any/updates-last-1-days/
+strict-transport-security: max-age=15768000; includeSubDomains; preload
+vary: Accept,Accept-Encoding
+server: gunicorn/19.3.0
+last-modified: Mon, 09 Jan 2017 04:28:51 GMT
+-content-encoding: gzip
+x-bzr-revision-number: 321
+cache-control: max-age=14400
+date: Mon, 09 Jan 2017 04:28:51 GMT
+content-type: application/json; charset=utf-8
+-varied-accept-encoding: gzip, deflate
+
+[
+    {
+        "ratings_total": 192, 
+        "ratings_average": "3.75", 
+        "app_name": "", 
+        "package_name": "midori", 
+        "histogram": "[20, 16, 37, 38, 81]"
+    }, 
+    {
+        "ratings_total": 16, 
+        "ratings_average": "4.62", 
+        "app_name": "", 
+        "package_name": "ninja-ide", 
+        "histogram": "[0, 1, 0, 3, 12]"
+    }
+]

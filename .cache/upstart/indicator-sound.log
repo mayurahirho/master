@@ -1,0 +1,42 @@
+
+(process:1505): indicator-sound-WARNING **: volume-control-pulse.vala:1003: unable to sync volume to AccountsService: GDBus.Error:org.freedesktop.DBus.Error.InvalidArgs: No such interface 'com.ubuntu.AccountsService.Sound'
+
+(process:1505): indicator-sound-WARNING **: volume-control-pulse.vala:1003: unable to sync volume to AccountsService: GDBus.Error:org.freedesktop.DBus.Error.InvalidArgs: No such interface 'com.ubuntu.AccountsService.Sound'
+pci id for fd 14: 80ee:beef, driver (null)
+OpenGL Warning: glFlushVertexArrayRangeNV not found in mesa table
+OpenGL Warning: glVertexArrayRangeNV not found in mesa table
+OpenGL Warning: glCombinerInputNV not found in mesa table
+OpenGL Warning: glCombinerOutputNV not found in mesa table
+OpenGL Warning: glCombinerParameterfNV not found in mesa table
+OpenGL Warning: glCombinerParameterfvNV not found in mesa table
+OpenGL Warning: glCombinerParameteriNV not found in mesa table
+OpenGL Warning: glCombinerParameterivNV not found in mesa table
+OpenGL Warning: glFinalCombinerInputNV not found in mesa table
+OpenGL Warning: glGetCombinerInputParameterfvNV not found in mesa table
+OpenGL Warning: glGetCombinerInputParameterivNV not found in mesa table
+OpenGL Warning: glGetCombinerOutputParameterfvNV not found in mesa table
+OpenGL Warning: glGetCombinerOutputParameterivNV not found in mesa table
+OpenGL Warning: glGetFinalCombinerInputParameterfvNV not found in mesa table
+OpenGL Warning: glGetFinalCombinerInputParameterivNV not found in mesa table
+OpenGL Warning: glDeleteFencesNV not found in mesa table
+OpenGL Warning: glFinishFenceNV not found in mesa table
+OpenGL Warning: glGenFencesNV not found in mesa table
+OpenGL Warning: glGetFenceivNV not found in mesa table
+OpenGL Warning: glIsFenceNV not found in mesa table
+OpenGL Warning: glSetFenceNV not found in mesa table
+OpenGL Warning: glTestFenceNV not found in mesa table
+libGL error: core dri or dri2 extension not found
+libGL error: failed to load driver: vboxvideo
+OpenGL Warning: crPixelCopy3D:  simply crMemcpy'ing from srcPtr to dstPtr
+
+(unity-control-center:25850): sound-cc-panel-WARNING **: Unable to find stream for bar '(null)'
+
+(process:1505): indicator-sound-WARNING **: volume-control-pulse.vala:1003: unable to sync volume to AccountsService: GDBus.Error:org.freedesktop.DBus.Error.InvalidArgs: No such interface 'com.ubuntu.AccountsService.Sound'
+
+(process:1505): indicator-sound-WARNING **: volume-control-pulse.vala:1003: unable to sync volume to AccountsService: GDBus.Error:org.freedesktop.DBus.Error.InvalidArgs: No such interface 'com.ubuntu.AccountsService.Sound'
+
+(process:1505): indicator-sound-WARNING **: volume-control-pulse.vala:1003: unable to sync volume to AccountsService: GDBus.Error:org.freedesktop.DBus.Error.InvalidArgs: No such interface 'com.ubuntu.AccountsService.Sound'
+
+(process:1505): indicator-sound-WARNING **: volume-control-pulse.vala:1003: unable to sync volume to AccountsService: GDBus.Error:org.freedesktop.DBus.Error.InvalidArgs: No such interface 'com.ubuntu.AccountsService.Sound'
+
+(process:1505): indicator-sound-WARNING **: volume-control-pulse.vala:1003: unable to sync volume to AccountsService: GDBus.Error:org.freedesktop.DBus.Error.InvalidArgs: No such interface 'com.ubuntu.AccountsService.Sound'

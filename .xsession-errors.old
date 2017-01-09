@@ -1,0 +1,66 @@
+pci id for fd 4: 80ee:beef, driver (null)
+OpenGL Warning: glFlushVertexArrayRangeNV not found in mesa table
+OpenGL Warning: glVertexArrayRangeNV not found in mesa table
+OpenGL Warning: glCombinerInputNV not found in mesa table
+OpenGL Warning: glCombinerOutputNV not found in mesa table
+OpenGL Warning: glCombinerParameterfNV not found in mesa table
+OpenGL Warning: glCombinerParameterfvNV not found in mesa table
+OpenGL Warning: glCombinerParameteriNV not found in mesa table
+OpenGL Warning: glCombinerParameterivNV not found in mesa table
+OpenGL Warning: glFinalCombinerInputNV not found in mesa table
+OpenGL Warning: glGetCombinerInputParameterfvNV not found in mesa table
+OpenGL Warning: glGetCombinerInputParameterivNV not found in mesa table
+OpenGL Warning: glGetCombinerOutputParameterfvNV not found in mesa table
+OpenGL Warning: glGetCombinerOutputParameterivNV not found in mesa table
+OpenGL Warning: glGetFinalCombinerInputParameterfvNV not found in mesa table
+OpenGL Warning: glGetFinalCombinerInputParameterivNV not found in mesa table
+OpenGL Warning: glDeleteFencesNV not found in mesa table
+OpenGL Warning: glFinishFenceNV not found in mesa table
+OpenGL Warning: glGenFencesNV not found in mesa table
+OpenGL Warning: glGetFenceivNV not found in mesa table
+OpenGL Warning: glIsFenceNV not found in mesa table
+OpenGL Warning: glSetFenceNV not found in mesa table
+OpenGL Warning: glTestFenceNV not found in mesa table
+libGL error: core dri or dri2 extension not found
+libGL error: failed to load driver: vboxvideo
+openConnection: connect: No such file or directory
+cannot connect to brltty at :0
+upstart: upstart-event-bridge main process (1147) terminated with status 1
+upstart: upstart-event-bridge main process ended, respawning
+upstart: upstart-event-bridge main process (1174) terminated with status 1
+upstart: upstart-event-bridge main process ended, respawning
+upstart: upstart-event-bridge main process (1175) terminated with status 1
+upstart: upstart-event-bridge main process ended, respawning
+upstart: upstart-event-bridge main process (1176) terminated with status 1
+upstart: upstart-event-bridge main process ended, respawning
+upstart: upstart-event-bridge main process (1178) terminated with status 1
+upstart: upstart-event-bridge main process ended, respawning
+upstart: upstart-event-bridge main process (1181) terminated with status 1
+upstart: upstart-event-bridge main process ended, respawning
+upstart: upstart-event-bridge main process (1183) terminated with status 1
+upstart: upstart-event-bridge main process ended, respawning
+upstart: upstart-event-bridge main process (1185) terminated with status 1
+upstart: upstart-event-bridge main process ended, respawning
+upstart: upstart-event-bridge main process (1186) terminated with status 1
+upstart: upstart-event-bridge main process ended, respawning
+upstart: upstart-event-bridge main process (1187) terminated with status 1
+upstart: upstart-event-bridge main process ended, respawning
+upstart: upstart-event-bridge main process (1188) terminated with status 1
+upstart: upstart-event-bridge respawning too fast, stopped
+upstart: window-stack-bridge main process (1146) killed by HUP signal
+upstart: hud main process (1234) killed by HUP signal
+upstart: unity-settings-daemon main process (1236) killed by HUP signal
+upstart: at-spi2-registryd main process (1243) killed by HUP signal
+upstart: gnome-session (Unity) main process (1244) killed by HUP signal
+upstart: unity-panel-service main process (1246) killed by HUP signal
+upstart: indicator-messages main process (1330) killed by HUP signal
+upstart: indicator-bluetooth main process (1331) killed by TERM signal
+upstart: indicator-power main process (1332) killed by TERM signal
+upstart: indicator-datetime main process (1333) killed by TERM signal
+upstart: indicator-keyboard main process (1336) killed by HUP signal
+upstart: indicator-sound main process (1337) killed by HUP signal
+upstart: indicator-printers main process (1341) killed by TERM signal
+upstart: indicator-session main process (1343) killed by TERM signal
+upstart: indicator-application main process (1373) killed by TERM signal
+upstart: Disconnected from notified D-Bus bus
+upstart: unity7 main process (1252) killed by KILL signal

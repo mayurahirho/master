@@ -1,0 +1,146 @@
+pci id for fd 15: 80ee:beef, driver (null)
+OpenGL Warning: glFlushVertexArrayRangeNV not found in mesa table
+OpenGL Warning: glVertexArrayRangeNV not found in mesa table
+OpenGL Warning: glCombinerInputNV not found in mesa table
+OpenGL Warning: glCombinerOutputNV not found in mesa table
+OpenGL Warning: glCombinerParameterfNV not found in mesa table
+OpenGL Warning: glCombinerParameterfvNV not found in mesa table
+OpenGL Warning: glCombinerParameteriNV not found in mesa table
+OpenGL Warning: glCombinerParameterivNV not found in mesa table
+OpenGL Warning: glFinalCombinerInputNV not found in mesa table
+OpenGL Warning: glGetCombinerInputParameterfvNV not found in mesa table
+OpenGL Warning: glGetCombinerInputParameterivNV not found in mesa table
+OpenGL Warning: glGetCombinerOutputParameterfvNV not found in mesa table
+OpenGL Warning: glGetCombinerOutputParameterivNV not found in mesa table
+OpenGL Warning: glGetFinalCombinerInputParameterfvNV not found in mesa table
+OpenGL Warning: glGetFinalCombinerInputParameterivNV not found in mesa table
+OpenGL Warning: glDeleteFencesNV not found in mesa table
+OpenGL Warning: glFinishFenceNV not found in mesa table
+OpenGL Warning: glGenFencesNV not found in mesa table
+OpenGL Warning: glGetFenceivNV not found in mesa table
+OpenGL Warning: glIsFenceNV not found in mesa table
+OpenGL Warning: glSetFenceNV not found in mesa table
+OpenGL Warning: glTestFenceNV not found in mesa table
+libGL error: core dri or dri2 extension not found
+libGL error: failed to load driver: vboxvideo
+[27450:0109/130120:ERROR:buffer_manager.cc(438)] [.DisplayCompositor-0x2cdfe30f9e00]GL ERROR :GL_INVALID_ENUM : glBufferData: <- error from previous GL command
+[27450:0109/130125:ERROR:texture_manager.cc(2942)] [.RenderCompositor-0x27ba081b1e00]GL ERROR :GL_INVALID_ENUM : glTexImage2D: <- error from previous GL command
+[27450:0109/130125:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_ENUM : GLES2DecoderImpl::DoBindTexImage2DCHROMIUM: <- error from previous GL command
+[27450:0109/130125:ERROR:gles2_cmd_decoder.cc(2214)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_OPERATION : ScopedTextureBinder::ctor: was unhandled
+[27450:0109/130125:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130125:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130125:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130125:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130125:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130125:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130125:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130125:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130125:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130125:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130125:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130125:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130125:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130125:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130125:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130125:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130126:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130126:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130126:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130126:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130126:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130126:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130126:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130126:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130126:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130126:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130126:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130126:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130126:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130126:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130126:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130126:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130126:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130126:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130126:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130126:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130126:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130126:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130126:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130126:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130126:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130126:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130126:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130126:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130126:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130126:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130126:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130126:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130126:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130126:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130126:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130126:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130126:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130127:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130127:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130127:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130524:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130524:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130524:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130524:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130524:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130524:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130524:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130524:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130524:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130524:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130524:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130524:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130524:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130524:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130524:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130524:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130524:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130524:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130524:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130524:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130524:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130524:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130524:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130524:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130524:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130526:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130526:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130526:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130526:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130530:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130530:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130530:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130530:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130530:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130530:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130531:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130531:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130532:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130532:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130532:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130532:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130532:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130532:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130532:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130532:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130532:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130532:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130532:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130532:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130532:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130532:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130532:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130533:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130533:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130533:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130533:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130533:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130533:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130533:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130533:ERROR:gles2_cmd_decoder.cc(2210)] [.RenderWorker-0x27ba081b2500]GL ERROR :GL_INVALID_VALUE : ScopedTextureBinder::dtor: <- error from previous GL command
+[27450:0109/130813:ERROR:gles2_cmd_decoder.cc(2210)] [.CompositorWorker-0x2cdfe30f9700]GL ERROR :GL_INVALID_ENUM : BackFramebuffer::Destroy: <- error from previous GL command

@@ -1,0 +1,9 @@
+Mon Jan  9 10:34:57 IST 2017 crash report /var/crash/_usr_share_oneconf_oneconf-service.1000.crash detected
+Traceback (most recent call last):
+  File "/usr/share/apport/apport-gtk", line 594, in <module>
+    app.run_argv()
+  File "/usr/lib/python3/dist-packages/apport/ui.py", line 682, in run_argv
+    return self.run_crashes()
+  File "/usr/lib/python3/dist-packages/apport/ui.py", line 233, in run_crashes
+    logind_session[1] > self.report.get_timestamp():
+TypeError: unorderable types: float() > NoneType()

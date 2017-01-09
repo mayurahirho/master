@@ -1,0 +1,55 @@
+pci id for fd 4: 80ee:beef, driver (null)
+OpenGL Warning: glFlushVertexArrayRangeNV not found in mesa table
+OpenGL Warning: glVertexArrayRangeNV not found in mesa table
+OpenGL Warning: glCombinerInputNV not found in mesa table
+OpenGL Warning: glCombinerOutputNV not found in mesa table
+OpenGL Warning: glCombinerParameterfNV not found in mesa table
+OpenGL Warning: glCombinerParameterfvNV not found in mesa table
+OpenGL Warning: glCombinerParameteriNV not found in mesa table
+OpenGL Warning: glCombinerParameterivNV not found in mesa table
+OpenGL Warning: glFinalCombinerInputNV not found in mesa table
+OpenGL Warning: glGetCombinerInputParameterfvNV not found in mesa table
+OpenGL Warning: glGetCombinerInputParameterivNV not found in mesa table
+OpenGL Warning: glGetCombinerOutputParameterfvNV not found in mesa table
+OpenGL Warning: glGetCombinerOutputParameterivNV not found in mesa table
+OpenGL Warning: glGetFinalCombinerInputParameterfvNV not found in mesa table
+OpenGL Warning: glGetFinalCombinerInputParameterivNV not found in mesa table
+OpenGL Warning: glDeleteFencesNV not found in mesa table
+OpenGL Warning: glFinishFenceNV not found in mesa table
+OpenGL Warning: glGenFencesNV not found in mesa table
+OpenGL Warning: glGetFenceivNV not found in mesa table
+OpenGL Warning: glIsFenceNV not found in mesa table
+OpenGL Warning: glSetFenceNV not found in mesa table
+OpenGL Warning: glTestFenceNV not found in mesa table
+libGL error: core dri or dri2 extension not found
+libGL error: failed to load driver: vboxvideo
+openConnection: connect: No such file or directory
+cannot connect to brltty at :0
+upstart: upstart-event-bridge main process (1309) terminated with status 1
+upstart: upstart-event-bridge main process ended, respawning
+upstart: upstart-event-bridge main process (1337) terminated with status 1
+upstart: upstart-event-bridge main process ended, respawning
+upstart: upstart-event-bridge main process (1338) terminated with status 1
+upstart: upstart-event-bridge main process ended, respawning
+upstart: upstart-event-bridge main process (1339) terminated with status 1
+upstart: upstart-event-bridge main process ended, respawning
+upstart: upstart-event-bridge main process (1343) terminated with status 1
+upstart: upstart-event-bridge main process ended, respawning
+upstart: upstart-event-bridge main process (1347) terminated with status 1
+upstart: upstart-event-bridge main process ended, respawning
+upstart: upstart-event-bridge main process (1348) terminated with status 1
+upstart: upstart-event-bridge main process ended, respawning
+upstart: upstart-event-bridge main process (1349) terminated with status 1
+upstart: upstart-event-bridge main process ended, respawning
+upstart: upstart-event-bridge main process (1350) terminated with status 1
+upstart: upstart-event-bridge main process ended, respawning
+upstart: upstart-event-bridge main process (1351) terminated with status 1
+upstart: upstart-event-bridge main process ended, respawning
+upstart: upstart-event-bridge main process (1352) terminated with status 1
+upstart: upstart-event-bridge respawning too fast, stopped
+upstart: update-notifier-crash (/var/crash/_usr_share_apport_apport-gtk.1000.crash) main process (1342) terminated with status 1
+upstart: update-notifier-crash (/var/crash/_usr_bin_compiz.1000.crash) main process (1340) terminated with status 1
+upstart: update-notifier-crash (/var/crash/_usr_bin_nautilus.1000.crash) main process (1341) terminated with status 1
+upstart: update-notifier-crash (/var/crash/_usr_bin_webapp-container.1000.crash) main process (2401) terminated with status 1
+upstart: update-notifier-crash (/var/crash/_usr_share_oneconf_oneconf-service.1000.crash) main process (7988) terminated with status 1
+upstart: update-notifier-crash (/var/crash/_usr_lib_firefox_firefox.1000.crash) main process (27019) terminated with status 1

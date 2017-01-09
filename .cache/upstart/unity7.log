@@ -1,0 +1,1229 @@
+
+(process:2045): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+2017-01-09 09:51:07,431 - softwarecenter.backend.zeitgeist_logger - WARNING - Support for Zeitgeist disabled
+2017-01-09 09:51:07,545 - softwarecenter.ui.gtk3.app - INFO - setting up proxy 'None'
+2017-01-09 09:51:12,188 - softwarecenter.region - WARNING - failed to use geoclue: 'org.freedesktop.Geoclue.Error.notAvailable: Geoclue master client has no usable Address providers'
+2017-01-09 09:51:12,460 - softwarecenter.backend.reviews - WARNING - Could not get usefulness from server, no username in config file
+2017-01-09 09:51:12,480 - softwarecenter.plugin - INFO - activating plugin '<module 'webapps_activation' from '/usr/share/software-center/softwarecenter/plugins/webapps_activation.pyc'>'
+2017-01-09 09:51:12,583 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+/usr/bin/software-center:184: Warning: Source ID 168 was not found when attempting to remove it
+  Gtk.main()
+/usr/bin/software-center:184: Warning: Source ID 87 was not found when attempting to remove it
+  Gtk.main()
+2017-01-09 09:51:21,394 - softwarecenter.db.utils - INFO - software-center-agent finished with status 0
+TypeError: position_func() takes exactly 2 arguments (4 given)
+
+(software-center:2143): Gtk-WARNING **: unmatched gtk_style_context_save/restore() detected while validating context for softwarecenter+ui+gtk3+widgets+apptreeview+AppTreeView 0x1a0aff0
+** Message: Launching webapp container for url 'http://www.amazon.com/?tag=u1webapp-20' and app_id 'ubuntu-amazon-default (command line 'webapp-container --app-id='ubuntu-amazon-default' --webapp --enable-back-forward   http://www.amazon.com/?tag=u1webapp-20')
+pci id for fd 14: 80ee:beef, driver (null)
+OpenGL Warning: glFlushVertexArrayRangeNV not found in mesa table
+OpenGL Warning: glVertexArrayRangeNV not found in mesa table
+OpenGL Warning: glCombinerInputNV not found in mesa table
+OpenGL Warning: glCombinerOutputNV not found in mesa table
+OpenGL Warning: glCombinerParameterfNV not found in mesa table
+OpenGL Warning: glCombinerParameterfvNV not found in mesa table
+OpenGL Warning: glCombinerParameteriNV not found in mesa table
+OpenGL Warning: glCombinerParameterivNV not found in mesa table
+OpenGL Warning: glFinalCombinerInputNV not found in mesa table
+OpenGL Warning: glGetCombinerInputParameterfvNV not found in mesa table
+OpenGL Warning: glGetCombinerInputParameterivNV not found in mesa table
+OpenGL Warning: glGetCombinerOutputParameterfvNV not found in mesa table
+OpenGL Warning: glGetCombinerOutputParameterivNV not found in mesa table
+OpenGL Warning: glGetFinalCombinerInputParameterfvNV not found in mesa table
+OpenGL Warning: glGetFinalCombinerInputParameterivNV not found in mesa table
+OpenGL Warning: glDeleteFencesNV not found in mesa table
+OpenGL Warning: glFinishFenceNV not found in mesa table
+OpenGL Warning: glGenFencesNV not found in mesa table
+OpenGL Warning: glGetFenceivNV not found in mesa table
+OpenGL Warning: glIsFenceNV not found in mesa table
+OpenGL Warning: glSetFenceNV not found in mesa table
+OpenGL Warning: glTestFenceNV not found in mesa table
+libGL error: core dri or dri2 extension not found
+libGL error: failed to load driver: vboxvideo
+OpenGL Warning: XGetVisualInfo returned 0 visuals for 000055ef21027110
+OpenGL Warning: Retry with 0x8002 returned 0 visuals
+OpenGL Warning: XGetVisualInfo returned 0 visuals for 000055ef21027110
+OpenGL Warning: Retry with 0x8002 returned 0 visuals
+OpenGL Warning: glXGetFBConfigAttrib for 000055ef21027110, failed to get XVisualInfo
+OpenGL Warning: XGetVisualInfo returned 0 visuals for 000055ef21027110
+OpenGL Warning: Retry with 0x8002 returned 0 visuals
+OpenGL Warning: glXGetFBConfigAttrib for 000055ef21027110, failed to get XVisualInfo
+OpenGL Warning: XGetVisualInfo returned 0 visuals for 000055ef21027110
+OpenGL Warning: Retry with 0x8002 returned 0 visuals
+OpenGL Warning: glXGetFBConfigAttrib for 000055ef21027110, failed to get XVisualInfo
+OpenGL Warning: XGetVisualInfo returned 0 visuals for 000055ef21027110
+OpenGL Warning: Retry with 0x8002 returned 0 visuals
+OpenGL Warning: glXGetFBConfigAttrib for 000055ef21027110, failed to get XVisualInfo
+OpenGL Warning: XGetVisualInfo returned 0 visuals for 000055ef21027110
+OpenGL Warning: Retry with 0x8002 returned 0 visuals
+OpenGL Warning: glXGetFBConfigAttrib for 000055ef21027110, failed to get XVisualInfo
+OpenGL Warning: XGetVisualInfo returned 0 visuals for 000055ef21027110
+OpenGL Warning: Retry with 0x8002 returned 0 visuals
+OpenGL Warning: glXGetFBConfigAttrib for 000055ef21027110, failed to get XVisualInfo
+OpenGL Warning: XGetVisualInfo returned 0 visuals for 000055ef21027110
+OpenGL Warning: Retry with 0x8002 returned 0 visuals
+OpenGL Warning: glXGetFBConfigAttrib for 000055ef21027110, failed to get XVisualInfo
+OpenGL Warning: XGetVisualInfo returned 0 visuals for 000055ef21027110
+OpenGL Warning: Retry with 0x8002 returned 0 visuals
+OpenGL Warning: glXGetFBConfigAttrib for 000055ef21027110, failed to get XVisualInfo
+OpenGL Warning: XGetVisualInfo returned 0 visuals for 000055ef21027110
+OpenGL Warning: Retry with 0x8002 returned 0 visuals
+Could not initialize GLX
+[Parent 2045] WARNING: pipe error (61): Connection reset by peer: file /build/firefox-EFAqGc/firefox-41.0.2+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 459
+2017-01-09 09:58:46,995 - softwarecenter.backend.zeitgeist_logger - WARNING - Support for Zeitgeist disabled
+2017-01-09 09:58:47,055 - softwarecenter.ui.gtk3.app - INFO - setting up proxy 'None'
+2017-01-09 09:58:50,238 - softwarecenter.backend.reviews - WARNING - Could not get usefulness from server, no username in config file
+2017-01-09 09:58:50,240 - softwarecenter.plugin - INFO - activating plugin '<module 'webapps_activation' from '/usr/share/software-center/softwarecenter/plugins/webapps_activation.pyc'>'
+2017-01-09 09:58:50,360 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+/usr/lib/python2.7/dist-packages/gi/overrides/GLib.py:584: Warning: Source ID 85 was not found when attempting to remove it
+  return super(MainContext, self).iteration(may_block)
+/usr/bin/software-center:184: Warning: Source ID 168 was not found when attempting to remove it
+  Gtk.main()
+2017-01-09 09:58:56,069 - softwarecenter.db.utils - INFO - software-center-agent finished with status 0
+WARN  2017-01-09 09:59:06 unity.iconloader IconLoader.cpp:755 Unable to load icon file:/// at size -1x22: Can't open directory
+Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+ERROR 2017-01-09 10:28:24 unity <unknown>:0 atk_object_ref_state_set: assertion 'ATK_IS_OBJECT (accessible)' failed
+ERROR 2017-01-09 10:28:24 unity <unknown>:0 atk_state_set_contains_state: assertion 'ATK_IS_STATE_SET (set)' failed
+ERROR 2017-01-09 10:28:24 unityte <unknown>:0 g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+(process:20431): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Performance warning: Async animation disabled because frame size (1288, 1679) is bigger than the viewport (1464, 837) or the visual rectangle (1288, 1679) is larger than the max allowable value (17895698) [main]
+Performance warning: Async animation disabled because frame size (270, 4301) is bigger than the viewport (1464, 837) or the visual rectangle (270, 4301) is larger than the max allowable value (17895698) [aside]
+Performance warning: Async animation disabled because frame size (1288, 3798) is bigger than the viewport (1464, 837) or the visual rectangle (1288, 3798) is larger than the max allowable value (17895698) [main]
+2017-01-09 10:57:05,784 - softwarecenter.backend.zeitgeist_logger - WARNING - Support for Zeitgeist disabled
+2017-01-09 10:57:05,841 - softwarecenter.ui.gtk3.app - INFO - setting up proxy 'None'
+2017-01-09 10:57:07,044 - softwarecenter.backend.reviews - WARNING - Could not get usefulness from server, no username in config file
+2017-01-09 10:57:07,046 - softwarecenter.plugin - INFO - activating plugin '<module 'webapps_activation' from '/usr/share/software-center/softwarecenter/plugins/webapps_activation.pyc'>'
+2017-01-09 10:57:07,177 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+/usr/lib/python2.7/dist-packages/gi/overrides/GLib.py:584: Warning: Source ID 76 was not found when attempting to remove it
+  return super(MainContext, self).iteration(may_block)
+2017-01-09 10:57:11,770 - softwarecenter.db.utils - INFO - software-center-agent finished with status 0
+
+(software-center:24739): Gtk-WARNING **: unmatched gtk_style_context_save/restore() detected while validating context for softwarecenter+ui+gtk3+widgets+apptreeview+AppTreeView 0x2660c20
+
+(software-center:24739): Gtk-WARNING **: unmatched gtk_style_context_save/restore() detected while validating context for softwarecenter+ui+gtk3+widgets+apptreeview+AppTreeView 0x2660c20
+/usr/share/software-center/softwarecenter/ui/gtk3/models/appstore2.py:401: Warning: Source ID 152 was not found when attempting to remove it
+  Gtk.main_iteration()
+
+(software-center:24739): Gtk-WARNING **: unmatched gtk_style_context_save/restore() detected while validating context for softwarecenter+ui+gtk3+widgets+apptreeview+AppTreeView 0x2660c20
+
+(software-center:24739): Gtk-WARNING **: unmatched gtk_style_context_save/restore() detected while validating context for softwarecenter+ui+gtk3+widgets+apptreeview+AppTreeView 0x2660c20
+
+(firefox:20431): Gtk-CRITICAL **: IA__gtk_clipboard_set_with_data: assertion 'targets != NULL' failed
+Performance warning: Async animation disabled because frame size (10329, 300) is bigger than the viewport (1464, 837) or the visual rectangle (10329, 300) is larger than the max allowable value (17895698) [div]
+console.error: 
+  Message: Error: Permission denied to access property "document"
+  Stack:
+    colorBubble@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/loader/sandbox.js -> resource://jid1-dgnibwqga0sibw-at-jetpack/data/content_script/inject.js:178:9
+init/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/loader/sandbox.js -> resource://jid1-dgnibwqga0sibw-at-jetpack/data/content_script/inject.js:514:33
+onEvent@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/loader/sandbox.js -> resource://gre/modules/commonjs/sdk/content/content-worker.js:45:22
+onEvent@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/loader/sandbox.js -> resource://gre/modules/commonjs/sdk/content/content-worker.js:45:22
+onChromeEvent@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/loader/sandbox.js -> resource://gre/modules/commonjs/sdk/content/content-worker.js:91:16
+
+Performance warning: Async animation disabled because frame size (10329, 299) is bigger than the viewport (1464, 837) or the visual rectangle (10329, 299) is larger than the max allowable value (17895698) [div]
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_pb_utils_add_codec_description_to_tag_list: assertion 'caps != NULL' failed
+
+(firefox:20431): GStreamer-CRITICAL **: gst_mini_object_unref: assertion 'mini_object != NULL' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_pb_utils_add_codec_description_to_tag_list: assertion 'caps != NULL' failed
+
+(firefox:20431): GStreamer-CRITICAL **: gst_mini_object_unref: assertion 'mini_object != NULL' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_pb_utils_add_codec_description_to_tag_list: assertion 'caps != NULL' failed
+
+(firefox:20431): GStreamer-CRITICAL **: gst_mini_object_unref: assertion 'mini_object != NULL' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_pb_utils_add_codec_description_to_tag_list: assertion 'caps != NULL' failed
+
+(firefox:20431): GStreamer-CRITICAL **: gst_mini_object_unref: assertion 'mini_object != NULL' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_pb_utils_add_codec_description_to_tag_list: assertion 'caps != NULL' failed
+
+(firefox:20431): GStreamer-CRITICAL **: gst_mini_object_unref: assertion 'mini_object != NULL' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_pb_utils_add_codec_description_to_tag_list: assertion 'caps != NULL' failed
+
+(firefox:20431): GStreamer-CRITICAL **: gst_mini_object_unref: assertion 'mini_object != NULL' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_pb_utils_add_codec_description_to_tag_list: assertion 'caps != NULL' failed
+
+(firefox:20431): GStreamer-CRITICAL **: gst_mini_object_unref: assertion 'mini_object != NULL' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_pb_utils_add_codec_description_to_tag_list: assertion 'caps != NULL' failed
+
+(firefox:20431): GStreamer-CRITICAL **: gst_mini_object_unref: assertion 'mini_object != NULL' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_pb_utils_add_codec_description_to_tag_list: assertion 'caps != NULL' failed
+
+(firefox:20431): GStreamer-CRITICAL **: gst_mini_object_unref: assertion 'mini_object != NULL' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_pb_utils_add_codec_description_to_tag_list: assertion 'caps != NULL' failed
+
+(firefox:20431): GStreamer-CRITICAL **: gst_mini_object_unref: assertion 'mini_object != NULL' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_pb_utils_add_codec_description_to_tag_list: assertion 'caps != NULL' failed
+
+(firefox:20431): GStreamer-CRITICAL **: gst_mini_object_unref: assertion 'mini_object != NULL' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_pb_utils_add_codec_description_to_tag_list: assertion 'caps != NULL' failed
+
+(firefox:20431): GStreamer-CRITICAL **: gst_mini_object_unref: assertion 'mini_object != NULL' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+(firefox:20431): GStreamer-CRITICAL **: gst_poll_get_read_gpollfd: assertion 'set != NULL' failed
+
+** (firefox:20431): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+
+(firefox:20431): GStreamer-CRITICAL **: gst_poll_get_read_gpollfd: assertion 'set != NULL' failed
+
+(firefox:20431): GStreamer-CRITICAL **: gst_poll_get_read_gpollfd: assertion 'set != NULL' failed
+
+(firefox:20431): GStreamer-CRITICAL **: gst_bus_timed_pop_filtered: assertion 'timeout == 0 || bus->priv->poll != NULL' failed
+javaldx: Could not find a Java Runtime Environment!
+Warning: failed to read path from javaldx
+ERROR 2017-01-09 11:59:15 unity <unknown>:0 atk_object_ref_state_set: assertion 'ATK_IS_OBJECT (accessible)' failed
+ERROR 2017-01-09 11:59:15 unity <unknown>:0 atk_state_set_contains_state: assertion 'ATK_IS_STATE_SET (set)' failed
+ERROR 2017-01-09 11:59:15 unityte <unknown>:0 g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+ERROR 2017-01-09 12:00:00 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 12:00:00 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 12:00:00 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 12:00:00 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 12:00:00 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 12:00:00 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 12:00:00 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 12:00:00 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 12:00:00 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 12:00:00 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 12:00:00 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 12:00:00 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 12:00:00 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 12:00:00 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 12:00:00 unity <unknown>:0 atk_object_ref_state_set: assertion 'ATK_IS_OBJECT (accessible)' failed
+ERROR 2017-01-09 12:00:00 unity <unknown>:0 atk_state_set_contains_state: assertion 'ATK_IS_STATE_SET (set)' failed
+ERROR 2017-01-09 12:00:00 unityte <unknown>:0 g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+ERROR 2017-01-09 12:00:10 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 12:00:10 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 12:00:10 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 12:00:10 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 12:00:10 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 12:00:10 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 12:00:10 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 12:00:10 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 12:00:10 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 12:00:10 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 12:00:10 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 12:00:10 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 12:00:10 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 12:00:10 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 12:00:10 unity <unknown>:0 atk_object_ref_state_set: assertion 'ATK_IS_OBJECT (accessible)' failed
+ERROR 2017-01-09 12:00:10 unity <unknown>:0 atk_state_set_contains_state: assertion 'ATK_IS_STATE_SET (set)' failed
+ERROR 2017-01-09 12:00:10 unityte <unknown>:0 g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+ERROR 2017-01-09 12:00:10 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 12:00:10 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 12:00:10 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 12:00:10 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 12:00:10 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 12:00:10 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 12:00:10 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 12:00:10 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 12:00:10 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 12:00:10 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 12:00:10 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 12:00:10 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 12:00:10 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 12:00:10 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 12:00:13 unityte <unknown>:0 g_value_set_object: assertion 'g_value_type_compatible (G_OBJECT_TYPE (v_object), G_VALUE_TYPE (value))' failed
+
+(process:27027): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Performance warning: Async animation disabled because frame size (1288, 7978) is bigger than the viewport (1464, 837) or the visual rectangle (1288, 7978) is larger than the max allowable value (17895698) [main]
+ERROR 2017-01-09 12:11:09 unity <unknown>:0 atk_object_ref_state_set: assertion 'ATK_IS_OBJECT (accessible)' failed
+ERROR 2017-01-09 12:11:09 unity <unknown>:0 atk_state_set_contains_state: assertion 'ATK_IS_STATE_SET (set)' failed
+ERROR 2017-01-09 12:11:09 unityte <unknown>:0 g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+ERROR 2017-01-09 13:08:07 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 13:08:07 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 13:08:07 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 13:08:07 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 13:08:07 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 13:08:07 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 13:08:07 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 13:08:07 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 13:08:07 unity <unknown>:0 atk_object_ref_state_set: assertion 'ATK_IS_OBJECT (accessible)' failed
+ERROR 2017-01-09 13:08:07 unity <unknown>:0 atk_state_set_contains_state: assertion 'ATK_IS_STATE_SET (set)' failed
+ERROR 2017-01-09 13:08:07 unityte <unknown>:0 g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+ERROR 2017-01-09 13:08:09 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 13:08:09 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 13:08:09 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 13:08:09 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 13:08:09 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 13:08:09 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 13:08:09 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 13:08:09 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 13:08:09 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 13:08:09 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 13:08:09 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 13:08:09 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 13:08:10 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 13:08:10 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 13:08:10 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 13:08:10 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 13:08:12 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 13:08:12 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 13:08:12 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 13:08:12 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 13:08:12 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 13:08:12 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 13:08:12 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 13:08:12 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 13:08:12 unity <unknown>:0 atk_object_ref_state_set: assertion 'ATK_IS_OBJECT (accessible)' failed
+ERROR 2017-01-09 13:08:12 unity <unknown>:0 atk_state_set_contains_state: assertion 'ATK_IS_STATE_SET (set)' failed
+ERROR 2017-01-09 13:08:12 unityte <unknown>:0 g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+ERROR 2017-01-09 13:08:13 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 13:08:13 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 13:08:13 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-01-09 13:08:13 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
